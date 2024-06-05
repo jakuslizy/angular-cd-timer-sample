@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "~8.2.8",
     "@angular/router": "~8.2.8",
     "angular-cd-timer": "^1.0.0",
-    "core-js": "^2.5.4",
+    "core-js": "^2.6.12",
     "rxjs": "~6.5.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
